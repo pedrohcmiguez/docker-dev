@@ -19,7 +19,11 @@
 - http://localhost/
 - Document root: /www/public
 
-# Gerenciamento
+# Instalação
+- git clone https://github.com/pedrohcmiguez/docker-dev.git
+- cd docker-dev
 - Iniciar: sudo docker-compose up -d
+
+# Gerenciamento
 - Atualizar a build do docker: sudo docker-compose up -d --build
 - Parar: sudo docker-compose down -v
