@@ -20,5 +20,11 @@ data/mysql/*
 # ----------------------------------------
 # Arquivos fonte
 # ----------------------------------------
-src/public/*
-!src/public/index.php
+www/public/*
+!www/public/index.php
+
+# ----------------------------------------
+# Arquivos Wiki
+# ----------------------------------------
+www/public/wiki/*
+!www/public/wiki/index.php
