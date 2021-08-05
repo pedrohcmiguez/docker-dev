@@ -1,3 +1,2 @@
 <?php 
-xdebug_info();
-die();
+phpinfo();
